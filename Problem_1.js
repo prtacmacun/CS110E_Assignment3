@@ -6,7 +6,7 @@ while(plus.length<num){
     
 }
 
-for( let lines=1; lines<num; lines++ ){
+for( let lines=0; lines<num; lines++ ){
     console.log(plus);
 }
 
